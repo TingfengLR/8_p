@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jimr/Desktop/courses/CS170/Project/8-p/8-p.cpp
+iostream
+-
+algorithm
+-
+math.h
+-
+string
+-
+../8-p/compare.h
+-
+chrono
+-
+

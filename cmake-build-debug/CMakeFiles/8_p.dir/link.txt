@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/8_p.dir/8-p.cpp.o  -o 8_p 

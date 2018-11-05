@@ -1,0 +1,3 @@
+/home/jimr/Desktop/courses/CS170/Project/8-p/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jimr/Desktop/courses/CS170/Project/8-p/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jimr/Desktop/courses/CS170/Project/8-p/cmake-build-debug/CMakeFiles/8_p.dir
